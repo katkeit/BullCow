@@ -9,12 +9,15 @@
 1) At the project's main <a href = "https://github.com/katkeit/BullCow">directory</a>, click the green "Code" button, and click the drop down option "Download Zip".
 2) Extract the zip into any folder.
 3) Inside the main folder, click the BullCowGame.uproject.
+4) Click "Yes" to the pop-up message about rebuilding the game.
+5) Once the game is loaded in Unreal Engine 4, go to Edit -> Editor Preferences.
+6) In the pop-up window, find "Source Code" on the left and change "Source Code Editor" to Visual Studio Code. Close window.
+7) In Unreal Engine, click Build, and then Compile.
+8) Once the build and compile is complete, then click Run.
 
 ## ❈ Features
-- The game starts at a menu to either play the game, get info, or exit the game.
 - There are three difficulties to choose from, which are Easy, Normal, or Hard.
-- There is a Tutorial mode with unlimited tries.
-- The game gets progressively harder.
+- There is an option to choose whether to show word hints (bulls).
 
 ## ❈ Documentation
 ### <a href = "https://code.visualstudio.com/docs">Visual Studio Code</a>
